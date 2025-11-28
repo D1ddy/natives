@@ -13,3 +13,4 @@ void SET_PED_INTO_VEHICLE(Ped ped, Vehicle vehicle, int seatIndex);
 * **vehicle**: 
 * **seatIndex**: See eSeatPosition declared in [`IS_VEHICLE_SEAT_FREE`](#_0x22AC59A870E6A669). -2 for the first available seat.
 
+* **seatIndex**: Goes from -2 to 2, -2 is the first available seat, -1 is driver etc...
