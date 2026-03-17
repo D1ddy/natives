@@ -12,6 +12,6 @@ Shows a help message for one frame.
 Do note that this message doesn't get added to the Pause Menu info section.
 
 ## Parameters
-* **pTextLabel**: Text label for this message.
-* **bCurvedWindow**: Unused parameter. 
+* **pTextLabel**: Text label for this message. (see AddTextEntry for label)
+* **bCurvedWindow**: Unused parameter.
 
